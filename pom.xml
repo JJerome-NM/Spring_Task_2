@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.jjerome-nm</groupId>
-    <artifactId>SpringBootTask</artifactId>
+    <artifactId>spring-boot-task</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
@@ -19,7 +19,7 @@
     <modules>
         <module>Greeting</module>
         <module>MainTask</module>
-        <module>Greeting</module>
+        <module>Files</module>
     </modules>
 
 
@@ -43,12 +43,6 @@
             <artifactId>StringLib</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-
-<!--        <dependency>-->
-<!--            <groupId>org.jjerome-nm</groupId>-->
-<!--            <artifactId>GreatingController</artifactId>-->
-<!--            <version>1.0-SNAPSHOT</version>-->
-<!--        </dependency>-->
     </dependencies>
 
 </project>
